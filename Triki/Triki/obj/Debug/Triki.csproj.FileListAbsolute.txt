@@ -1,0 +1,9 @@
+C:\Users\mateo\Desktop\Triki\Triki\obj\Debug\Triki.Form1.resources
+C:\Users\mateo\Desktop\Triki\Triki\obj\Debug\Triki.csproj.GenerateResource.cache
+C:\Users\mateo\Desktop\Triki\Triki\bin\Debug\Triki.exe.config
+C:\Users\mateo\Desktop\Triki\Triki\bin\Debug\Triki.exe
+C:\Users\mateo\Desktop\Triki\Triki\bin\Debug\Triki.pdb
+C:\Users\mateo\Desktop\Triki\Triki\obj\Debug\Triki.Properties.Resources.resources
+C:\Users\mateo\Desktop\Triki\Triki\obj\Debug\Triki.exe
+C:\Users\mateo\Desktop\Triki\Triki\obj\Debug\Triki.pdb
+C:\Users\mateo\Desktop\Triki\Triki\obj\Debug\Triki.csprojAssemblyReference.cache
