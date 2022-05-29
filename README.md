@@ -1,6 +1,6 @@
 # Triki
 
-Juego triki hecho en c# desde visual studio
+Juego triki hecho en c# desde visual studio, este se debe abrir con este mismo programa
 
 Este proyecto lo desarrolle con Jamir Patiño
 
